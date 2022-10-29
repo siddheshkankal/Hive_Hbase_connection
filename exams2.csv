@@ -1,0 +1,7 @@
+name,gender,group,parental_level_of_education,lunch,test_preparation_course,math_score,reading_score,writing_score
+lovey,male,group A,high school,standard,completed,67,67,63
+archana,female,group D,some high school,free/reduced,none,40,59,55
+sidd,male,group E,some college,free/reduced,none,59,60,50
+shubham,male,group B,high school,standard,none,77,78,68
+utkarsh,male,group E,associate's degree,standard,completed,78,73,68
+soum,female,group D,high school,standard,none,63,77,76
